@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/daltonclaybrook/endorsecount.png)](http://coderwall.com/daltonclaybrook)
+
 MCPixelArt (Windows)
 ====================
 
